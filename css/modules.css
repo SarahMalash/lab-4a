@@ -1,0 +1,67 @@
+/* mobile */
+@media (min-width: 480px) and (max-width: 767px){
+    *{
+        background-color: rgba(2, 77, 24, 0.651);
+    }
+#a {
+    background-color: rgba(35, 128, 74, 0.651);
+  }
+ #b {
+    background-color:  rgba(43, 90, 57, 0.651);
+  }
+  #c {
+    background-color:  rgba(103, 182, 143, 0.651);
+  }
+  #d{
+    background-color: rgba(73, 167, 65, 0.651);
+  }
+  #e {
+    background-color: rgba(121, 60, 60, 0.651);
+  }
+  #f {
+    background-color: rgba(22, 71, 57, 0.616);
+  }
+ #g {
+    background-color: rgba(15, 44, 20, 0.685);
+  }
+  #h {
+    background-color: rgba(68, 202, 68, 0.705);
+  }
+ #i {
+    background-color:rgba(196, 69, 69, 0.842);
+  }
+}
+
+@media (min-width: 768px){
+      *{
+          background-color: rgb(38, 18, 87);
+      }
+    
+      #a{
+      background-color:  rgb(115, 97, 219);
+    }
+    #b{
+      background-color: rgb(93, 56, 180);
+    }
+    #c {
+      background-color: rgb(13, 32, 134);
+    }
+    #d{
+      background-color: rgb(33, 7, 102);
+    }
+    #e {
+      background-color: rgb(30, 6, 138);
+    }
+    #f {
+      background-color: rgb(67, 21, 153);
+    }
+    #g {
+      background-color: rgb(30, 3, 124);
+    }
+    #h {
+      background-color: rgb(43, 38, 77);
+    }
+    #i {
+      background-color: rgb(59, 75, 214);
+    }
+  }
